@@ -100,3 +100,11 @@ nav a:hover {
     color: #fc8ebf;
     transition: all 0.6s ease-in-out;
 }
+
+hr {
+    margin: 100px 0;
+    height: 1px;
+    background-color: #4f014c;
+    color: #4f014c;
+    border: 0 none;
+}
