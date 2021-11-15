@@ -60,3 +60,8 @@ a {
     color: #760071;
     text-decoration: none;
 }
+
+a:hover {
+    color: cadetblue;
+    border-bottom: 1px dotted;
+}
