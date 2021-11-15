@@ -90,3 +90,12 @@ nav ul li {
     display: inline;
     margin: 20px;
 }
+
+nav a {
+    color: #f7f7f7;    
+}
+
+nav a:hover {
+    border-bottom: none;
+    
+}
