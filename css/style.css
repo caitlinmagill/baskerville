@@ -54,3 +54,9 @@ cite {
     font-style: normal;
 
 }
+
+/*-- Styling Links --*/
+a {
+    color: #760071;
+    text-decoration: none;
+}
