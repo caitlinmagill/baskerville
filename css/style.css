@@ -13,7 +13,7 @@ body {
     color: #333333;
 }
 
-section, header, footer {
+section, header {
     width: 80%;
     max-width: 700px;
     margin: auto;
@@ -107,4 +107,11 @@ hr {
     background-color: #4f014c;
     color: #4f014c;
     border: 0 none;
+}
+
+footer {
+    text-align: centre;
+    font-size: 0.75rem;
+    margin: 4rem 0;
+
 }
