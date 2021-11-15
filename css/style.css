@@ -55,6 +55,18 @@ cite {
 
 }
 
+header h2 {
+    font-size: 2.827px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+header p {
+    font-size: 1.3rem;
+}
+
 /*-- Styling Links --*/
 a {
     color: #760071;
