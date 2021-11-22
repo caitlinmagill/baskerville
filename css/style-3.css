@@ -34,7 +34,7 @@ section {
 /*-- Typographic styling --*/
 
 header h1, h2, p {
-    color:rgb(65, 65, 65);
+    color:rgb(255, 255, 255);
     padding:2rem 0;
 }
 
@@ -67,11 +67,11 @@ h1 {
 }
 
 h2 {
-    color:#f7f7f7;
+    color:#313131;
 }
 
 h3 {
-    color: #f7f7f7;
+    color: #313131;
 }
 
 p {
