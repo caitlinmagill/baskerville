@@ -13,7 +13,7 @@ body {
     font-family: baskerville-urw, serif;
 }
 
-section,header, footer {
+section, header, footer {
     width: 80%;
     max-width: 700px;
     margin: auto;
@@ -24,7 +24,7 @@ section {
     margin-bottom: 4em;
 }
 
-.dark {background: #4f014c;}
+
 
 .light {
     background: #4f014c;
@@ -34,7 +34,7 @@ section {
 /*-- Typographic styling --*/
 
 header h1, h2, p {
-    color:beige;
+    color:rgb(65, 65, 65);
     padding:2rem 0;
 }
 
@@ -51,6 +51,10 @@ header p {
     padding-bottom: 4rem;
     font-size: 1.3rem;
     color: #f7f7f7;
+}
+
+.dark {
+    background: #4f014c;
 }
 
 h1 {
