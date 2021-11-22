@@ -25,6 +25,11 @@ section {
 
 .dark {background: #760176;}
 
+.light {
+    background: #ffe9c4;
+    padding: 3rem;
+}
+
 /*-- Typographic styling --*/
 
 header h1, h2, p {
