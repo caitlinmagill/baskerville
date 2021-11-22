@@ -95,8 +95,8 @@ blockquote {
 
 cite{
     font-style: normal;
-    font-size: 0.75em;
-    color: #333;
+    font-size: 0.50em;
+    color: rgb(75, 75, 75);
 }
 
 /*-- Style Links --*/
